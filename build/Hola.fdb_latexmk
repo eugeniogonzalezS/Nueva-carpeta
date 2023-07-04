@@ -1,0 +1,16 @@
+# Fdb version 4
+["pdflatex"] 1688437633 "c:/Users/euge1/OneDrive/Escritorio/Nueva carpeta/Hola.tex" "build/Hola.pdf" "Hola" 1688437633 0
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Program Files/MiKTeX/tex/latex/base/article.cls" 1687174146 20144 fbcf51733730d8f1a62143512ff5b1fe ""
+  "C:/Program Files/MiKTeX/tex/latex/base/size10.clo" 1687174146 8448 74078c4a887f2cdcd57c3ec111622740 ""
+  "C:/Program Files/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1681896761 29940 9473d58112bc8a88f5505b823a053dde ""
+  "C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map" 1688434451 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/euge1/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1688434461 23208740 eb4f2c0e8c22191b182c3ce436dbc340 ""
+  "Hola.tex" 1688434533 74 7b550a9583cb5186f9f9f82bc365ae82 ""
+  "build/Hola.aux" 1688437633 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "c:/Users/euge1/OneDrive/Escritorio/Nueva carpeta/Hola.tex" 1688434533 74 7b550a9583cb5186f9f9f82bc365ae82 ""
+  (generated)
+  "build/Hola.aux"
+  "build/Hola.log"
+  "build/Hola.pdf"
+  (rewritten before read)
